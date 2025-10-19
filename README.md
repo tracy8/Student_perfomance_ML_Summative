@@ -21,4 +21,8 @@ for predicting student final grades based on behavioral, social, and academic da
 Random Forest achieved the best predictive performance (R² ≈ 0.88, RMSE ≈ 1.2).  
 Neural Networks showed similar results with more variance.
 
+## Link to the report
+https://docs.google.com/document/d/1m6zoRjctwcwRMlpQBTBVpmMOO5wtOe7GILUWzcuyWaQ/edit?usp=sharing
 
+## Link to the presentation 
+https://youtu.be/QR5ufvIfrCE
